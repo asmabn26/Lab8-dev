@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AsyncThreadMonitor</string>
+    <string name="dashboard_title">Tableau de bord</string>
+    <string name="status_ready">Application prête</string>
+    <string name="system_operational">Système opérationnel</string>
+    <string name="progression_label">Progression</string>
+    <string name="progress_start">0 %</string>
+    <string name="preview_label">Aperçu</string>
+    <string name="preview_description">image de test</string>
+    <string name="actions_label">Actions</string>
+    <string name="btn_thread_text">Démarrer chargement avec Thread</string>
+    <string name="btn_async_text">Lancer calcul avec AsyncTask</string>
+    <string name="btn_toast_text">Tester la réactivité UI</string>
+    <string name="status_loading_image">État : chargement de l\'image en cours...</string>
+    <string name="status_image_loaded">État : image chargée avec succès</string>
+    <string name="status_calculating">État : calcul en arrière-plan...</string>
+    <string name="status_calc_finished">État : calcul terminé. Résultat = %1$d</string>
+</resources>
