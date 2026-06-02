@@ -64,13 +64,11 @@ La vidéo de démonstration montre :
 5. la progression jusqu’à 100 % ;
 6. l’affichage du résultat final.
 
-Lien de la vidéo :
 
-```md
-[Voir la démonstration](./demo/demo_lab8.mp4)
-```
 
----
+https://github.com/user-attachments/assets/faae031a-c85e-4b70-810b-791b04c61a70
+
+
 
 ## Structure du projet
 
@@ -283,6 +281,14 @@ L’application fonctionne correctement :
 Cependant, elle reste utile dans ce lab pour comprendre les notions de base liées aux threads, au traitement en arrière-plan et à la mise à jour de l’interface graphique.
 
 ---
+
+
+
+
+
+
+
+
 
 ## Conclusion
 
